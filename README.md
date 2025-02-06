@@ -1,7 +1,7 @@
 # KafkaDataPipeline
 
 KafkaDataPipeline is a scalable data processing solution that integrates both real-time and batch processing using Apache Kafka, Python, and PostgreSQL. The project demonstrates a robust architecture where a producer ingests synthetic data into Kafka, a consumer persists the data into PostgreSQL, and an ETL process transforms and summarizes the stored data. Docker Compose is used to orchestrate all components for seamless deployment and testing.
-![Dashboard Example ](ruta-de-la-imagen)
+![Dashboard Example ](Dashboard.png)
 
 ## Table of Contents
 - [Overview](#overview)
